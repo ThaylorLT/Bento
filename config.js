@@ -120,6 +120,10 @@ const CONFIG = {
         name: 'r/UnixPorn',
         link: 'https://www.reddit.com/r/unixporn/',
       },
+       {
+        name: 'Dotfiles',
+        link: 'https://github.com/ThaylorLT/Dotfiles',
+      },
     ],
   },
 };
