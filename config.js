@@ -71,7 +71,7 @@ const CONFIG = {
       id: '4',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'http://moodle.ifsul.edu.br/novohamburgo/',
     },
     {
       id: '5',
